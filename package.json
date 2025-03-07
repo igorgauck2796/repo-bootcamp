@@ -1,0 +1,10 @@
+{
+  "name": "repo-bootcamp",
+  "version": "0.1.0",
+  "description": "\ud83c\udfd5\ufe0f Turn any GitHub repository into a Day 1 onboarding kit using the GitHub Copilot SDK. Generates 12+ markdown docs in < 60 seconds.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
